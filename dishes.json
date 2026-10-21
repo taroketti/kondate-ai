@@ -1,0 +1,1674 @@
+[
+  {
+    "name": "豚の生姜焼き",
+    "standard_name": "生姜焼き",
+    "category": "肉",
+    "minutes": 15,
+    "price_yen": 250,
+    "ingredients": [
+      {
+        "name": "豚ロース肉",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": 0.5,
+        "unit": "個"
+      },
+      {
+        "name": "醤油",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "みりん",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "酒",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "おろし生姜",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "サラダ油",
+        "amount": 1,
+        "unit": "小さじ"
+      }
+    ],
+    "steps": [
+      "玉ねぎは薄切りにし、豚ロース肉は食べやすい大きさに切る。",
+      "醤油、みりん、酒、おろし生姜を混ぜ合わせてタレを作る。",
+      "フライパンにサラダ油を熱し、玉ねぎと豚肉を中火で色が変わるまで炒める。",
+      "混ぜ合わせたタレをフライパンに加えて全体に絡め、少しとろみがつくまで煮詰める。"
+    ],
+    "id": "main01",
+    "role": "主菜",
+    "photo": "main01.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E7%94%9F%E5%A7%9C%E7%84%BC%E3%81%8D",
+    "photo_title": "Wikipedia「生姜焼き」",
+    "emoji": "🫚"
+  },
+  {
+    "name": "鶏の唐揚げ",
+    "standard_name": "から揚げ",
+    "category": "肉",
+    "minutes": 25,
+    "price_yen": 200,
+    "ingredients": [
+      {
+        "name": "鶏もも肉",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "醤油",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "酒",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "おろしにんにく",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "おろし生姜",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "片栗粉",
+        "amount": 2,
+        "unit": "大さじ"
+      },
+      {
+        "name": "揚げ油",
+        "amount": 0,
+        "unit": "適量"
+      }
+    ],
+    "steps": [
+      "鶏もも肉を一口大に切る。",
+      "ボウルに鶏肉、醤油、酒、おろしにんにく、おろし生姜を入れて揉み込み、10分置く。",
+      "鶏肉の全体に片栗粉をまぶす。",
+      "フライパンに底から1cmほどの揚げ油を中火で熱し、鶏肉を返しながら火が通るまで揚げる。"
+    ],
+    "id": "main02",
+    "role": "主菜",
+    "photo": "main02.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%82%89%E6%8F%9A%E3%81%92",
+    "photo_title": "Wikipedia「から揚げ」",
+    "emoji": "🍗"
+  },
+  {
+    "name": "ハンバーグ",
+    "standard_name": "ハンバーグ",
+    "category": "肉",
+    "minutes": 25,
+    "price_yen": 250,
+    "ingredients": [
+      {
+        "name": "合い挽き肉",
+        "amount": 120,
+        "unit": "g"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": 0.25,
+        "unit": "個"
+      },
+      {
+        "name": "パン粉",
+        "amount": 2,
+        "unit": "大さじ"
+      },
+      {
+        "name": "牛乳",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "卵",
+        "amount": 0.5,
+        "unit": "個"
+      },
+      {
+        "name": "塩",
+        "amount": 0,
+        "unit": "適量"
+      },
+      {
+        "name": "こしょう",
+        "amount": 0,
+        "unit": "適量"
+      },
+      {
+        "name": "サラダ油",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "中濃ソース",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "ケチャップ",
+        "amount": 1,
+        "unit": "大さじ"
+      }
+    ],
+    "steps": [
+      "玉ねぎをみじん切りにし、パン粉は牛乳に浸しておく。",
+      "ボウルに合い挽き肉、玉ねぎ、浸したパン粉、卵、塩、こしょうを入れて粘りが出るまでよく練り、小判型に成形する。",
+      "フライパンにサラダ油を熱し、中央をくぼませたタネを入れて両面に焼き色をつける。",
+      "蓋をして弱火で約5分蒸し焼きにし、火が通ったらハンバーグを取り出す。",
+      "同じフライパンに中濃ソースとケチャップを入れて軽く煮詰め、ハンバーグにかける。"
+    ],
+    "id": "main03",
+    "role": "主菜",
+    "photo": "main03.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B0",
+    "photo_title": "Wikipedia「ハンバーグ」",
+    "emoji": "🥩"
+  },
+  {
+    "name": "肉じゃが",
+    "standard_name": "肉じゃが",
+    "category": "肉",
+    "minutes": 25,
+    "price_yen": 220,
+    "ingredients": [
+      {
+        "name": "豚こま切れ肉",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "じゃがいも",
+        "amount": 1,
+        "unit": "個"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": 0.5,
+        "unit": "個"
+      },
+      {
+        "name": "人参",
+        "amount": 0.25,
+        "unit": "本"
+      },
+      {
+        "name": "水",
+        "amount": 150,
+        "unit": "ml"
+      },
+      {
+        "name": "醤油",
+        "amount": 1.5,
+        "unit": "大さじ"
+      },
+      {
+        "name": "みりん",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "砂糖",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "サラダ油",
+        "amount": 1,
+        "unit": "小さじ"
+      }
+    ],
+    "steps": [
+      "じゃがいもと人参は乱切りにし、玉ねぎはくし形切りにする。",
+      "鍋にサラダ油を熱し、豚肉を炒めて色が変わったら野菜を加えて油を回す。",
+      "水、醤油、みりん、砂糖を加えて落とし蓋をし、中火で煮立たせる。",
+      "弱火にしてじゃがいもが柔らかくなるまで約15分煮る。"
+    ],
+    "id": "main04",
+    "role": "主菜",
+    "photo": "main04.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E8%82%89%E3%81%98%E3%82%83%E3%81%8C",
+    "photo_title": "Wikipedia「肉じゃが」",
+    "emoji": "🥔"
+  },
+  {
+    "name": "豚キムチ炒め",
+    "standard_name": "豚キムチ",
+    "category": "肉",
+    "minutes": 10,
+    "price_yen": 220,
+    "ingredients": [
+      {
+        "name": "豚ばら薄切り肉",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "白菜キムチ",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "長ネギ",
+        "amount": 0.25,
+        "unit": "本"
+      },
+      {
+        "name": "醤油",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "ごま油",
+        "amount": 1,
+        "unit": "小さじ"
+      }
+    ],
+    "steps": [
+      "豚ばら肉は一口大に切り、長ネギは斜め薄切りにする。",
+      "フライパンにごま油を熱し、豚肉を色が変わるまで中火で炒める。",
+      "白菜キムチと長ネギを加えて全体を手早く炒め合わせる。",
+      "鍋肌から醤油を回し入れ、香りが立つ程度にさっと炒め合わせる。"
+    ],
+    "id": "main05",
+    "role": "主菜",
+    "photo": "",
+    "photo_source": "",
+    "photo_title": "",
+    "emoji": "🌶️"
+  },
+  {
+    "name": "鮭の塩焼き",
+    "standard_name": "塩焼き",
+    "category": "魚",
+    "minutes": 15,
+    "price_yen": 220,
+    "ingredients": [
+      {
+        "name": "生鮭",
+        "amount": 1,
+        "unit": "切れ"
+      },
+      {
+        "name": "塩",
+        "amount": 0,
+        "unit": "適量"
+      },
+      {
+        "name": "大根",
+        "amount": 50,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "生鮭の両面に塩をふり、約10分置いて出てきた水分をペーパータオルで拭き取る。",
+      "大根をおろし金ですりおろし、水気を軽く切っておく。",
+      "魚焼きグリルまたはフライパンに魚焼き用ホイルを敷き、鮭を中火で両面に焼き色がつくまで焼く。",
+      "器に盛り付け、大根おろしを添える。"
+    ],
+    "id": "main06",
+    "role": "主菜",
+    "photo": "main06.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E7%84%BC%E3%81%8D%E9%AD%9A",
+    "photo_title": "Wikipedia「焼き魚」",
+    "emoji": "🍣"
+  },
+  {
+    "name": "鯖の味噌煮",
+    "standard_name": "鯖の味噌煮",
+    "category": "魚",
+    "minutes": 20,
+    "price_yen": 200,
+    "ingredients": [
+      {
+        "name": "サバ",
+        "amount": 1,
+        "unit": "切れ"
+      },
+      {
+        "name": "生姜",
+        "amount": 1,
+        "unit": "片"
+      },
+      {
+        "name": "水",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "酒",
+        "amount": 2,
+        "unit": "大さじ"
+      },
+      {
+        "name": "みりん",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "砂糖",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "味噌",
+        "amount": 1.5,
+        "unit": "大さじ"
+      }
+    ],
+    "steps": [
+      "サバの皮目に十字の切り込みを入れ、生姜は薄切りにする。",
+      "フライパンに水、酒、みりん、砂糖、薄切り生姜を入れて煮立たせる。",
+      "サバの皮目を上にして入れ、煮汁を少し取り出して味噌を溶かしながら加える。",
+      "落とし蓋をして弱火で約10分煮込み、煮汁にとろみがつくまで煮詰める。"
+    ],
+    "id": "main07",
+    "role": "主菜",
+    "photo": "main07.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%90%E3%81%AE%E5%91%B3%E5%99%8C%E7%85%AE",
+    "photo_title": "Wikipedia「サバの味噌煮」",
+    "emoji": "🐟"
+  },
+  {
+    "name": "ぶりの照り焼き",
+    "standard_name": "照り焼き",
+    "category": "魚",
+    "minutes": 15,
+    "price_yen": 280,
+    "ingredients": [
+      {
+        "name": "ブリ",
+        "amount": 1,
+        "unit": "切れ"
+      },
+      {
+        "name": "塩",
+        "amount": 0,
+        "unit": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "醤油",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "みりん",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "酒",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "砂糖",
+        "amount": 0.5,
+        "unit": "大さじ"
+      },
+      {
+        "name": "サラダ油",
+        "amount": 1,
+        "unit": "小さじ"
+      }
+    ],
+    "steps": [
+      "ブリに塩を少々ふって5分置き、表面の水気を拭き取ってから薄く小麦粉をまぶす。",
+      "醤油、みりん、酒、砂糖を混ぜ合わせて合わせ調味料を作る。",
+      "フライパンにサラダ油を熱し、ブリを並べて中火で両面に焼き色がつくまで焼く。",
+      "余分な油を拭き取り、合わせ調味料を加えてスプーンでタレを回しかけながら煮詰める。"
+    ],
+    "id": "main08",
+    "role": "主菜",
+    "photo": "main08.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E7%85%A7%E3%82%8A%E7%84%BC%E3%81%8D",
+    "photo_title": "Wikipedia「照り焼き」",
+    "emoji": "🐠"
+  },
+  {
+    "name": "タラのムニエル",
+    "standard_name": "ムニエル",
+    "category": "魚",
+    "minutes": 15,
+    "price_yen": 230,
+    "ingredients": [
+      {
+        "name": "生タラ",
+        "amount": 1,
+        "unit": "切れ"
+      },
+      {
+        "name": "塩",
+        "amount": 0,
+        "unit": "適量"
+      },
+      {
+        "name": "こしょう",
+        "amount": 0,
+        "unit": "適量"
+      },
+      {
+        "name": "小麦粉",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "バター",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "サラダ油",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "レモン",
+        "amount": 0.25,
+        "unit": "個"
+      }
+    ],
+    "steps": [
+      "生タラに塩、こしょうをふり、全体に小麦粉を薄くまぶす。",
+      "フライパンにサラダ油を中火で熱し、タラを入れて焼き色がつくまで焼く。",
+      "タラを裏返し、バターを加えて溶かし、スプーンですくってかけながら火を通す。",
+      "器に盛り付け、レモンを添える。"
+    ],
+    "id": "main09",
+    "role": "主菜",
+    "photo": "",
+    "photo_source": "",
+    "photo_title": "",
+    "emoji": "🧈"
+  },
+  {
+    "name": "麻婆豆腐",
+    "standard_name": "麻婆豆腐",
+    "category": "卵・豆",
+    "minutes": 15,
+    "price_yen": 180,
+    "ingredients": [
+      {
+        "name": "木綿豆腐",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "豚ひき肉",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "長ネギ",
+        "amount": 0.25,
+        "unit": "本"
+      },
+      {
+        "name": "豆板醤",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "水",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "醤油",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "味噌",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "鶏ガラスープの素",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "片栗粉",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "ごま油",
+        "amount": 1,
+        "unit": "小さじ"
+      }
+    ],
+    "steps": [
+      "豆腐を1.5cm角に切り、長ネギはみじん切りにする。",
+      "フライパンにごま油と豆板醤を熱し、豚ひき肉を加えてポロポロになるまで中火で炒める。",
+      "水、醤油、味噌、鶏ガラスープの素を加えて混ぜ、煮立ったら豆腐を加えて約2分煮る。",
+      "長ネギを加え、倍量の水で溶いた片栗粉を回し入れてとろみをつける。"
+    ],
+    "id": "main10",
+    "role": "主菜",
+    "photo": "main10.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90",
+    "photo_title": "Wikipedia「麻婆豆腐」",
+    "emoji": "🥘"
+  },
+  {
+    "name": "ニラ玉炒め",
+    "standard_name": "ニラ玉",
+    "category": "卵・豆",
+    "minutes": 10,
+    "price_yen": 150,
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": 2,
+        "unit": "個"
+      },
+      {
+        "name": "ニラ",
+        "amount": 0.5,
+        "unit": "束"
+      },
+      {
+        "name": "鶏ガラスープの素",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "醤油",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "塩",
+        "amount": 0,
+        "unit": "適量"
+      },
+      {
+        "name": "こしょう",
+        "amount": 0,
+        "unit": "適量"
+      },
+      {
+        "name": "ごま油",
+        "amount": 1,
+        "unit": "大さじ"
+      }
+    ],
+    "steps": [
+      "ニラは4cm幅に切り、ボウルに卵を溶きほぐして塩、こしょうを混ぜる。",
+      "フライパンにごま油の半量を強火で熱し、溶き卵を入れて大きくかき混ぜ、半熟の状態で一度取り出す。",
+      "残りのごま油を入れてニラを中火でさっと炒め、鶏ガラスープの素と醤油を加える。",
+      "卵をフライパンに戻し入れ、全体を手早く炒め合わせて火を止める。"
+    ],
+    "id": "main11",
+    "role": "主菜",
+    "photo": "",
+    "photo_source": "",
+    "photo_title": "",
+    "emoji": "🍳"
+  },
+  {
+    "name": "豆腐チャンプルー",
+    "standard_name": "チャンプルー",
+    "category": "卵・豆",
+    "minutes": 15,
+    "price_yen": 180,
+    "ingredients": [
+      {
+        "name": "木綿豆腐",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "卵",
+        "amount": 1,
+        "unit": "個"
+      },
+      {
+        "name": "豚こま切れ肉",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "もやし",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "醤油",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "和風だしの素",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "塩",
+        "amount": 0,
+        "unit": "適量"
+      },
+      {
+        "name": "ごま油",
+        "amount": 1,
+        "unit": "小さじ"
+      }
+    ],
+    "steps": [
+      "木綿豆腐をキッチンペーパーで包み、電子レンジで1分加熱して水気を切り、一口大にちぎる。",
+      "フライパンにごま油を熱し、豆腐の両面に焼き色がつくまで中火で焼き、一度取り出す。",
+      "同じフライパンで豚肉ともやしを炒め、火が通ったら豆腐を戻し入れ、和風だしの素、醤油、塩で味を調える。",
+      "溶き卵を回し入れ、全体を大きく混ぜ合わせて卵に火を通す。"
+    ],
+    "id": "main12",
+    "role": "主菜",
+    "photo": "main12.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%B3%E3%83%97%E3%83%AB%E3%83%BC",
+    "photo_title": "Wikipedia「チャンプルー」",
+    "emoji": "🫑"
+  },
+  {
+    "name": "ほうれん草のおひたし",
+    "standard_name": "おひたし",
+    "category": "野菜",
+    "minutes": 10,
+    "price_yen": 80,
+    "ingredients": [
+      {
+        "name": "ほうれん草",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "だし汁",
+        "amount": 50,
+        "unit": "ml"
+      },
+      {
+        "name": "しょうゆ",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "みりん",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "かつお節",
+        "amount": 0,
+        "unit": "適量"
+      }
+    ],
+    "steps": [
+      "熱湯に塩少々を加え、ほうれん草を根元から入れて固めに茹でます。",
+      "茹で上がったら冷水にとって冷まし、水気をしっかり絞って一口大に切ります。",
+      "ボウルにだし汁、しょうゆ、みりんを合わせて混ぜます。",
+      "ほうれん草を調味液に浸して器に盛り、かつお節を散らします。"
+    ],
+    "id": "side01",
+    "role": "副菜",
+    "photo": "side01.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%B2%E3%81%9F%E3%81%97",
+    "photo_title": "Wikipedia「おひたし」",
+    "emoji": "🥬"
+  },
+  {
+    "name": "きんぴらごぼう",
+    "standard_name": "きんぴら",
+    "category": "野菜",
+    "minutes": 15,
+    "price_yen": 100,
+    "ingredients": [
+      {
+        "name": "ごぼう",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "にんじん",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "ごま油",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "しょうゆ",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "みりん",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "砂糖",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "白いりごま",
+        "amount": 0,
+        "unit": "適量"
+      }
+    ],
+    "steps": [
+      "ごぼうとにんじんは細切りにし、ごぼうは水にさらして水気を切ります。",
+      "フライパンにごま油を中火で熱し、ごぼうとにんじんをしんなりするまで炒めます。",
+      "砂糖、みりん、しょうゆを加え、汁気がなくなるまで炒め合わせます。",
+      "器に盛り、白いりごまを振ります。"
+    ],
+    "id": "side02",
+    "role": "副菜",
+    "photo": "side02.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E9%87%91%E5%B9%B3",
+    "photo_title": "Wikipedia「金平」",
+    "emoji": "🥕"
+  },
+  {
+    "name": "かぼちゃの煮物",
+    "standard_name": "かぼちゃの煮物",
+    "category": "野菜",
+    "minutes": 20,
+    "price_yen": 90,
+    "ingredients": [
+      {
+        "name": "かぼちゃ",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "水",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "和風だしの素",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "砂糖",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "しょうゆ",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "みりん",
+        "amount": 0.5,
+        "unit": "大さじ"
+      }
+    ],
+    "steps": [
+      "かぼちゃは一口大の角切りにし、皮をところどころ削ぎ落とします。",
+      "鍋にかぼちゃの皮を下にして並べ、水、和風だしの素、砂糖、みりんを加えます。",
+      "落としぶたをして中火にかけ、煮立ったら弱火にして5分煮ます。",
+      "しょうゆを加えて落としぶたをし、竹串がすっと通るまでさらに7〜8分煮ます。"
+    ],
+    "id": "side03",
+    "role": "副菜",
+    "photo": "",
+    "photo_source": "",
+    "photo_title": "",
+    "emoji": "🎃"
+  },
+  {
+    "name": "ポテトサラダ",
+    "standard_name": "ポテトサラダ",
+    "category": "野菜",
+    "minutes": 20,
+    "price_yen": 110,
+    "ingredients": [
+      {
+        "name": "じゃがいも",
+        "amount": 1,
+        "unit": "個"
+      },
+      {
+        "name": "きゅうり",
+        "amount": 0.3,
+        "unit": "本"
+      },
+      {
+        "name": "にんじん",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "ロースハム",
+        "amount": 1,
+        "unit": "枚"
+      },
+      {
+        "name": "マヨネーズ",
+        "amount": 1.5,
+        "unit": "大さじ"
+      },
+      {
+        "name": "酢",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "塩",
+        "amount": 0,
+        "unit": "適量"
+      },
+      {
+        "name": "こしょう",
+        "amount": 0,
+        "unit": "適量"
+      }
+    ],
+    "steps": [
+      "じゃがいもは皮をむいて一口大に切り、にんじんは薄いいちょう切りにして、耐熱容器に入れて柔らかくなるまで電子レンジで加熱します。",
+      "きゅうりは薄い輪切りにして塩もみし、水気をしっかり絞ります。",
+      "ハムは短冊切りにします。",
+      "熱いうちにじゃがいもを粗くつぶし、酢、塩、こしょうを加えて冷まします。",
+      "きゅうり、にんじん、ハム、マヨネーズを加えて全体を和えます。"
+    ],
+    "id": "side04",
+    "role": "副菜",
+    "photo": "",
+    "photo_source": "",
+    "photo_title": "",
+    "emoji": "🥗"
+  },
+  {
+    "name": "ひじきの煮物",
+    "standard_name": "ひじきの煮物",
+    "category": "きのこ・海藻",
+    "minutes": 20,
+    "price_yen": 100,
+    "ingredients": [
+      {
+        "name": "乾燥ひじき",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "にんじん",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "油揚げ",
+        "amount": 0.5,
+        "unit": "枚"
+      },
+      {
+        "name": "ごま油",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "だし汁",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "しょうゆ",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "みりん",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "砂糖",
+        "amount": 0.5,
+        "unit": "大さじ"
+      }
+    ],
+    "steps": [
+      "ひじきはたっぷりの水で戻して水気を切り、にんじんと油揚げは細切りにします。",
+      "鍋にごま油を熱し、ひじき、にんじん、油揚げを中火で油が回るまで炒めます。",
+      "だし汁、砂糖、みりん、しょうゆを加えて混ぜます。",
+      "落としぶたをして弱めの中火で煮汁が少なくなるまで約10分煮ます。"
+    ],
+    "id": "side05",
+    "role": "副菜",
+    "photo": "",
+    "photo_source": "",
+    "photo_title": "",
+    "emoji": "🫘"
+  },
+  {
+    "name": "きゅうりとわかめの酢の物",
+    "standard_name": "酢の物",
+    "category": "きのこ・海藻",
+    "minutes": 10,
+    "price_yen": 70,
+    "ingredients": [
+      {
+        "name": "きゅうり",
+        "amount": 0.5,
+        "unit": "本"
+      },
+      {
+        "name": "乾燥わかめ",
+        "amount": 2,
+        "unit": "g"
+      },
+      {
+        "name": "酢",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "砂糖",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "しょうゆ",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "塩",
+        "amount": 0,
+        "unit": "適量"
+      }
+    ],
+    "steps": [
+      "乾燥わかめは水で戻して水気をしっかり絞ります。",
+      "きゅうりは薄い輪切りにして塩もみし、しんなりしたら水気を絞ります。",
+      "ボウルに酢、砂糖、しょうゆを混ぜ合わせて合わせ酢を作ります。",
+      "合わせ酢にきゅうりとわかめを加えて和えます。"
+    ],
+    "id": "side06",
+    "role": "副菜",
+    "photo": "",
+    "photo_source": "",
+    "photo_title": "",
+    "emoji": "🥒"
+  },
+  {
+    "name": "きのこのバター炒め",
+    "standard_name": "きのこソテー",
+    "category": "きのこ・海藻",
+    "minutes": 10,
+    "price_yen": 120,
+    "ingredients": [
+      {
+        "name": "しめじ",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "エリンギ",
+        "amount": 1,
+        "unit": "本"
+      },
+      {
+        "name": "バター",
+        "amount": 10,
+        "unit": "g"
+      },
+      {
+        "name": "しょうゆ",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "こしょう",
+        "amount": 0,
+        "unit": "適量"
+      }
+    ],
+    "steps": [
+      "しめじは石づきを切り落として小房に分け、エリンギは長さを半分にして薄切りにします。",
+      "フライパンにバターを中火で熱し、きのこ類を加えて炒めます。",
+      "きのこがしんなりしたらしょうゆを回し入れ、こしょうを振ってさっと炒め合わせます。"
+    ],
+    "id": "side07",
+    "role": "副菜",
+    "photo": "",
+    "photo_source": "",
+    "photo_title": "",
+    "emoji": "🍄"
+  },
+  {
+    "name": "冷奴",
+    "standard_name": "冷奴",
+    "category": "卵・豆",
+    "minutes": 5,
+    "price_yen": 50,
+    "ingredients": [
+      {
+        "name": "絹ごし豆腐",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "小ねぎ",
+        "amount": 1,
+        "unit": "本"
+      },
+      {
+        "name": "おろししょうが",
+        "amount": 0,
+        "unit": "適量"
+      },
+      {
+        "name": "かつお節",
+        "amount": 0,
+        "unit": "適量"
+      },
+      {
+        "name": "しょうゆ",
+        "amount": 1,
+        "unit": "小さじ"
+      }
+    ],
+    "steps": [
+      "小ねぎは小口切りにします。",
+      "豆腐の水気を軽くキッチンペーパーで拭き取り、器に盛ります。",
+      "豆腐の上に小ねぎ、おろししょうが、かつお節をのせ、しょうゆを回しかけます。"
+    ],
+    "id": "side08",
+    "role": "副菜",
+    "photo": "side08.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E5%86%B7%E5%A5%B4",
+    "photo_title": "Wikipedia「冷奴」",
+    "emoji": "🧊"
+  },
+  {
+    "name": "豆腐の白和え",
+    "standard_name": "白和え",
+    "category": "卵・豆",
+    "minutes": 15,
+    "price_yen": 90,
+    "ingredients": [
+      {
+        "name": "木綿豆腐",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "ほうれん草",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "にんじん",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "白すりごま",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "砂糖",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "薄口しょうゆ",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "塩",
+        "amount": 0,
+        "unit": "適量"
+      }
+    ],
+    "steps": [
+      "豆腐はキッチンペーパーに包んで電子レンジで1分加熱し、重しをしてしっかり水切りします。",
+      "ほうれん草とにんじんはさっと茹でて水気を切り、食べやすい長さに切ります。",
+      "ボウルに水切りした豆腐、白すりごま、砂糖、薄口しょうゆ、塩を加えてなめらかになるまで混ぜます。",
+      "ほうれん草とにんじんを加えて和えます。"
+    ],
+    "id": "side09",
+    "role": "副菜",
+    "photo": "side09.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E5%92%8C%E3%81%88%E7%89%A9",
+    "photo_title": "Wikipedia「和え物」",
+    "emoji": "🥢"
+  },
+  {
+    "name": "だし巻き卵",
+    "standard_name": "だし巻き卵",
+    "category": "卵・豆",
+    "minutes": 15,
+    "price_yen": 80,
+    "ingredients": [
+      {
+        "name": "鶏卵",
+        "amount": 2,
+        "unit": "個"
+      },
+      {
+        "name": "だし汁",
+        "amount": 45,
+        "unit": "ml"
+      },
+      {
+        "name": "薄口しょうゆ",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "みりん",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "サラダ油",
+        "amount": 1,
+        "unit": "小さじ"
+      }
+    ],
+    "steps": [
+      "ボウルに卵を割り入れ、だし汁、薄口しょうゆ、みりんを加えて白身を切るようによく混ぜます。",
+      "卵焼き器にサラダ油を薄く引いて中火で熱し、卵液の1/3量を流し入れて半熟状になったら奥から手前に巻き込みます。",
+      "巻いた卵を奥に寄せ、残りの卵液を2回に分けて流し入れながら同様に巻き上げます。",
+      "粗熱が取れたら一口大に切り分けます。"
+    ],
+    "id": "side10",
+    "role": "副菜",
+    "photo": "side10.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E3%81%A0%E3%81%97%E5%B7%BB%E3%81%8D%E5%8D%B5",
+    "photo_title": "Wikipedia「だし巻き卵」",
+    "emoji": "🥚"
+  },
+  {
+    "name": "豚汁",
+    "standard_name": "豚汁",
+    "category": "肉",
+    "minutes": 20,
+    "price_yen": 180,
+    "ingredients": [
+      {
+        "name": "豚ばら肉",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "大根",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "にんじん",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "ごぼう",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "こんにゃく",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "ごま油",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "だし汁",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "みそ",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "長ねぎ",
+        "amount": 10,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "豚ばら肉、大根、にんじん、ごぼう、こんにゃくを一口大に切ります。",
+      "鍋にごま油を熱し、豚肉と野菜を中火で炒めます。",
+      "全体に油が回ったらだし汁を加え、アクを取りながら野菜が柔らかくなるまで煮ます。",
+      "火を弱めてみそを溶き入れ、小口切りにした長ねぎを加えて火を止めます。"
+    ],
+    "id": "soup01",
+    "role": "汁物",
+    "photo": "soup01.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E8%B1%9A%E6%B1%81",
+    "photo_title": "Wikipedia「豚汁」",
+    "emoji": "🐖"
+  },
+  {
+    "name": "豆腐とわかめの味噌汁",
+    "standard_name": "味噌汁",
+    "category": "卵・豆",
+    "minutes": 10,
+    "price_yen": 80,
+    "ingredients": [
+      {
+        "name": "木綿豆腐",
+        "amount": 70,
+        "unit": "g"
+      },
+      {
+        "name": "乾燥わかめ",
+        "amount": 1,
+        "unit": "g"
+      },
+      {
+        "name": "だし汁",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "みそ",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "小ねぎ",
+        "amount": 5,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "木綿豆腐をさいの目切りにし、小ねぎを小口切りにします。",
+      "鍋にだし汁を入れて中火にかけ、煮立ったら豆腐と乾燥わかめを加えます。",
+      "弱火にしてみそを溶き入れ、沸騰直前で火を止めます。",
+      "器によそい、小ねぎを散らします。"
+    ],
+    "id": "soup02",
+    "role": "汁物",
+    "photo": "soup02.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E5%91%B3%E5%99%8C%E6%B1%81",
+    "photo_title": "Wikipedia「味噌汁」",
+    "emoji": "🍲"
+  },
+  {
+    "name": "かきたま汁",
+    "standard_name": "かきたま汁",
+    "category": "卵・豆",
+    "minutes": 10,
+    "price_yen": 70,
+    "ingredients": [
+      {
+        "name": "卵",
+        "amount": 1,
+        "unit": "個"
+      },
+      {
+        "name": "だし汁",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "しょうゆ",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "みりん",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "塩",
+        "amount": 0,
+        "unit": "適量"
+      },
+      {
+        "name": "片栗粉",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "水",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "三つ葉",
+        "amount": 5,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "ボウルに卵を割りほぐし、片栗粉は水と合わせて水溶き片栗粉を作ります。",
+      "鍋にだし汁、しょうゆ、みりん、塩を入れて中火で煮立てます。",
+      "水溶き片栗粉を回し入れてかき混ぜ、汁にとろみをつけます。",
+      "汁を強火にして沸騰させ、溶き卵を少しずつ流し入れて火を止めます。",
+      "器に注ぎ、刻んだ三つ葉をのせます。"
+    ],
+    "id": "soup03",
+    "role": "汁物",
+    "photo": "soup03.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%8D%E7%8E%89%E6%B1%81",
+    "photo_title": "Wikipedia「かき玉汁」",
+    "emoji": "🥣"
+  },
+  {
+    "name": "あさりの潮汁",
+    "standard_name": "潮汁",
+    "category": "魚",
+    "minutes": 15,
+    "price_yen": 180,
+    "ingredients": [
+      {
+        "name": "あさり",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "水",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "酒",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "塩",
+        "amount": 0,
+        "unit": "適量"
+      },
+      {
+        "name": "しょうゆ",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "小ねぎ",
+        "amount": 5,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "あさりは殻をこすり合わせてよく洗います。",
+      "鍋にあさり、水、酒を入れて中火にかけます。",
+      "煮立ってアクが出たら丁寧に取り除き、あさりの口が開くまで加熱します。",
+      "塩としょうゆで味を調え、火を止めます。",
+      "器によそい、小口切りにした小ねぎを散らします。"
+    ],
+    "id": "soup04",
+    "role": "汁物",
+    "photo": "soup04.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E6%BD%AE%E6%B1%81",
+    "photo_title": "Wikipedia「潮汁」",
+    "emoji": "🐚"
+  },
+  {
+    "name": "けんちん汁",
+    "standard_name": "けんちん汁",
+    "category": "野菜",
+    "minutes": 25,
+    "price_yen": 150,
+    "ingredients": [
+      {
+        "name": "木綿豆腐",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "大根",
+        "amount": 40,
+        "unit": "g"
+      },
+      {
+        "name": "にんじん",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "ごぼう",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "しいたけ",
+        "amount": 1,
+        "unit": "個"
+      },
+      {
+        "name": "ごま油",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "だし汁",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "しょうゆ",
+        "amount": 1,
+        "unit": "大さじ"
+      },
+      {
+        "name": "みりん",
+        "amount": 1,
+        "unit": "小さじ"
+      }
+    ],
+    "steps": [
+      "大根、にんじん、ごぼう、しいたけを食べやすい大きさに切ります。",
+      "鍋にごま油を引いて野菜を炒め、手で崩した木綿豆腐を加えてさらに炒めます。",
+      "だし汁を加えて中火で煮立て、野菜が柔らかくなるまで煮ます。",
+      "しょうゆとみりんを加えてひと煮立ちさせ、味をなじませます。"
+    ],
+    "id": "soup05",
+    "role": "汁物",
+    "photo": "soup05.jpg",
+    "photo_source": "https://ja.wikipedia.org/wiki/%E3%81%91%E3%82%93%E3%81%A1%E3%82%93%E6%B1%81",
+    "photo_title": "Wikipedia「けんちん汁」",
+    "emoji": "🫕"
+  },
+  {
+    "name": "わかめスープ",
+    "standard_name": "わかめスープ",
+    "category": "きのこ・海藻",
+    "minutes": 10,
+    "price_yen": 60,
+    "ingredients": [
+      {
+        "name": "乾燥わかめ",
+        "amount": 2,
+        "unit": "g"
+      },
+      {
+        "name": "長ねぎ",
+        "amount": 15,
+        "unit": "g"
+      },
+      {
+        "name": "水",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "鶏がらスープの素",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "しょうゆ",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "ごま油",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "白いりごま",
+        "amount": 0.5,
+        "unit": "小さじ"
+      }
+    ],
+    "steps": [
+      "長ねぎを小口切りにし、乾燥わかめは水で戻して水気を切ります。",
+      "鍋に水、鶏がらスープの素、しょうゆを入れて中火で煮立てます。",
+      "わかめと長ねぎを加えてひと煮立ちさせます。",
+      "ごま油を回し入れて火を止め、器によそって白いりごまを振ります。"
+    ],
+    "id": "soup06",
+    "role": "汁物",
+    "photo": "",
+    "photo_source": "",
+    "photo_title": "",
+    "emoji": "🌿"
+  },
+  {
+    "name": "ミネストローネ",
+    "standard_name": "ミネストローネ",
+    "category": "野菜",
+    "minutes": 25,
+    "price_yen": 160,
+    "ingredients": [
+      {
+        "name": "ベーコン",
+        "amount": 1,
+        "unit": "枚"
+      },
+      {
+        "name": "玉ねぎ",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "キャベツ",
+        "amount": 30,
+        "unit": "g"
+      },
+      {
+        "name": "にんじん",
+        "amount": 20,
+        "unit": "g"
+      },
+      {
+        "name": "トマト缶",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "水",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "コンソメ",
+        "amount": 1,
+        "unit": "小さじ"
+      },
+      {
+        "name": "オリーブオイル",
+        "amount": 1,
+        "unit": "小さじ"
+      }
+    ],
+    "steps": [
+      "ベーコン、玉ねぎ、キャベツ、にんじんを1cm角に切ります。",
+      "鍋にオリーブオイルを熱し、ベーコンと野菜を弱火でしんなりするまで炒めます。",
+      "トマト缶、水、コンソメを加え、時々混ぜながら弱火で15分ほど煮込みます。",
+      "野菜が柔らかくなったら塩とこしょうで味を調えます。"
+    ],
+    "id": "soup07",
+    "role": "汁物",
+    "photo": "",
+    "photo_source": "",
+    "photo_title": "",
+    "emoji": "🍅"
+  },
+  {
+    "name": "中華風コーンスープ",
+    "standard_name": "中華スープ",
+    "category": "その他",
+    "minutes": 10,
+    "price_yen": 110,
+    "ingredients": [
+      {
+        "name": "クリームコーン缶",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "水",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "鶏がらスープの素",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "卵",
+        "amount": 1,
+        "unit": "個"
+      },
+      {
+        "name": "片栗粉",
+        "amount": 0.5,
+        "unit": "小さじ"
+      },
+      {
+        "name": "ごま油",
+        "amount": 0,
+        "unit": "適量"
+      }
+    ],
+    "steps": [
+      "ボウルに卵を溶きほぐし、片栗粉は小さじ1の水で溶いておきます。",
+      "鍋にクリームコーン缶、水、鶏がらスープの素を入れて混ぜながら中火にかけます。",
+      "煮立ったら水溶き片栗粉を加えてとろみをつけます。",
+      "溶き卵を回し入れ、ふわっと浮き上がったら火を止めてごま油を垂らします。"
+    ],
+    "id": "soup08",
+    "role": "汁物",
+    "photo": "",
+    "photo_source": "",
+    "photo_title": "",
+    "emoji": "🌽"
+  }
+]
